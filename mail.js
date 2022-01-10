@@ -1,3 +1,12 @@
+/* npm nodemailer package.
+    allow less secure app http://myaccount.google.com/lessecureapp
+    write program
+    check mail
+    start npm inti
+    */
+
+
+
 var nodemailer = require("nodemailer");
 var transport = nodemailer.createTransport
     ({
